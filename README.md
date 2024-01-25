@@ -2,7 +2,7 @@
 <h1> 12C </h1>
 
 ## Mikiyas Alemseged
-## Danayit 
+## Danayit Anteneh
 ## Mekdes Abebe
 ## Nuhamin Misikir
 ## Ruhama Yonas
